@@ -43,7 +43,8 @@ namespace AuthApp.Services{
             var user = new ApplicationUser{
                 ApplicationUserName = RegistrationData.Name,
                 UserName = RegistrationData.Name,
-                Email = RegistrationData.Email
+                Email = RegistrationData.Email,
+                PhoneNumber = RegistrationData.PhoneNumber
             };
 
             var AccountRegResult = await _UserManager.CreateAsync(user,RegistrationData.Password);
@@ -257,7 +258,7 @@ namespace AuthApp.Services{
                 var body = $"Code: {token}";
 
                 await _emailService.SendEmailAsync(userEmail,Subject,body);
-                await _phoneService.SendSMSAsync(user.PhoneNumber,token);
+                //await _phoneService.SendSMSAsync(user.PhoneNumber,token);
             }
 
             return "Something Went Wrong";

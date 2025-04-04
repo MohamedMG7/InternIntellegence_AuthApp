@@ -1,34 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\maham\\onedrive\\desktop\\interintellegence\\authapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\user\\desktop\\internintellegence\\internintellegence_authapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\maham\\onedrive\\desktop\\interintellegence\\authapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\maham\\onedrive\\desktop\\interintellegence\\authapp\\dbhelper\\authappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\user\\desktop\\internintellegence\\internintellegence_authapp\\dbhelper\\authappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:dbhelper\\authappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\maham\\onedrive\\desktop\\interintellegence\\authapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\user\\desktop\\internintellegence\\internintellegence_authapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\maham\\onedrive\\desktop\\interintellegence\\authapp\\authapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\user\\desktop\\internintellegence\\internintellegence_authapp\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\user\\desktop\\internintellegence\\internintellegence_authapp\\services\\accountmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:services\\accountmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\user\\desktop\\internintellegence\\internintellegence_authapp\\services\\phonemessagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:services\\phonemessagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\user\\desktop\\internintellegence\\internintellegence_authapp\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\user\\desktop\\internintellegence\\internintellegence_authapp\\authapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:authapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\maham\\onedrive\\desktop\\interintellegence\\authapp\\migrations\\20250327062516_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:migrations\\20250327062516_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\user\\desktop\\internintellegence\\internintellegence_authapp\\migrations\\20250327062046_userrolesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:migrations\\20250327062046_userrolesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\maham\\onedrive\\desktop\\interintellegence\\authapp\\migrations\\20250327062046_userrolesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:migrations\\20250327062046_userrolesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\user\\desktop\\internintellegence\\internintellegence_authapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|c:\\users\\user\\desktop\\internintellegence\\internintellegence_authapp\\migrations\\20250327062516_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F0A325-3A52-09CF-2532-CE1EF9DBAA4A}|AuthApp.csproj|solutionrelative:migrations\\20250327062516_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +54,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -50,48 +78,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T06:25:38.276Z",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:24:54.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "20250327062516_AddRoles.cs",
-              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\Migrations\\20250327062516_AddRoles.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250327062516_AddRoles.cs",
-              "ToolTip": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\Migrations\\20250327062516_AddRoles.cs",
-              "RelativeToolTip": "Migrations\\20250327062516_AddRoles.cs",
+              "Title": "PhoneMessagesService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Services\\PhoneMessagesService.cs",
+              "RelativeDocumentMoniker": "Services\\PhoneMessagesService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Services\\PhoneMessagesService.cs",
+              "RelativeToolTip": "Services\\PhoneMessagesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:57:35.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\DbHelper\\AuthAppContext.cs",
+              "RelativeDocumentMoniker": "DbHelper\\AuthAppContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\DbHelper\\AuthAppContext.cs",
+              "RelativeToolTip": "DbHelper\\AuthAppContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T06:25:16.34Z"
+              "WhenOpened": "2025-03-27T06:23:26.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthAppContext.cs",
-              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\DbHelper\\AuthAppContext.cs",
-              "RelativeDocumentMoniker": "DbHelper\\AuthAppContext.cs",
-              "ToolTip": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\DbHelper\\AuthAppContext.cs",
-              "RelativeToolTip": "DbHelper\\AuthAppContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T06:23:26.832Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "20250327062046_UserRolesAdded.cs",
-              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\Migrations\\20250327062046_UserRolesAdded.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Migrations\\20250327062046_UserRolesAdded.cs",
               "RelativeDocumentMoniker": "Migrations\\20250327062046_UserRolesAdded.cs",
-              "ToolTip": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\Migrations\\20250327062046_UserRolesAdded.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Migrations\\20250327062046_UserRolesAdded.cs",
               "RelativeToolTip": "Migrations\\20250327062046_UserRolesAdded.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,35 +129,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AuthApp.csproj",
-              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\AuthApp.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\AuthApp.csproj",
               "RelativeDocumentMoniker": "AuthApp.csproj",
-              "ToolTip": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\AuthApp.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\AuthApp.csproj",
               "RelativeToolTip": "AuthApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-26T22:25:28.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwFQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T22:23:29.276Z"
+              "WhenOpened": "2025-03-26T22:23:29.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "AccountManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Services\\AccountManagementService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountManagementService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Services\\AccountManagementService.cs",
+              "RelativeToolTip": "Services\\AccountManagementService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA4wCgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:58:09.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T06:25:38.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:57:49.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250327062516_AddRoles.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Migrations\\20250327062516_AddRoles.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250327062516_AddRoles.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Migrations\\20250327062516_AddRoles.cs",
+              "RelativeToolTip": "Migrations\\20250327062516_AddRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:25:16.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\maham\\OneDrive\\Desktop\\InterIntellegence\\AuthApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\internIntellegence\\InternIntellegence_AuthApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
